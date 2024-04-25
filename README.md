@@ -1,5 +1,5 @@
-# Snappy - Chat Application 
-Snappy is a chat application built with the power of MERN Stack.
+# MySpace - Chat Application 
+MySpace is a chat application built with the power of MERN Stack.
 
 
 ![login page](./images/myspace_signup.png)
