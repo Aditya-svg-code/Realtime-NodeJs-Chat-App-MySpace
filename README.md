@@ -1,4 +1,4 @@
-# Snappy - Chat Application 
+# BOLO - Chat Application 
 Snappy is a chat application built with the power of MERN Stack.
 
 
